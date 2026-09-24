@@ -251,12 +251,6 @@ bool  unmap_last();
 
 ---
 
-## License
-
-MIT — see [`LICENSE`](LICENSE).
-
----
-
 ## Disclaimer
 
 This code is published for educational purposes as a study of the Windows x64 memory management subsystem. The author does not condone or support its use for cheating in software, bypassing anti-tamper systems, or any unauthorized access to computer systems. You are solely responsible for how you use this code.
